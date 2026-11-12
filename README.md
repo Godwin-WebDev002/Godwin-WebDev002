@@ -1,8 +1,6 @@
-Hi there 👋 I'm Osehon Godwin!
+Hi there 👋 I'm Onobhayedo Osehon Godwin!
 
-A passionate frontend developer with a keen eye for detail and a love for crafting beautiful, responsive, and user-friendly web experiences. I specialize in building modern web applications and enjoy bringing designs to life with clean, efficient code.
-
-Let's connect and build something amazing together!
+I am a Self-directed Web Developer & Technical SEO Specialist specializing in modern frontend architecture (React, Next.js, TypeScript, Tailwind CSS) alongside robust backend systems engineering (FastAPI, Python). Proven track record of independently architecting blazing-fast user interfaces, achieving sub-second load times, and designing scalable backend architectures. Adept at operating seamlessly across asynchronous remote, contract, and freelance environments, taking full ownership of deliverables, and driving projects independently without supervision.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
